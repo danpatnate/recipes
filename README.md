@@ -1,2 +1,2 @@
 # recipes
-Todo: update with items
+Todo: update with items - structure of directories and content.
